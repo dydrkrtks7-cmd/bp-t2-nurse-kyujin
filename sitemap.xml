@@ -6,7 +6,17 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gongdeok-room-note.maphoshirts.today/blog.html</loc>
+    <loc>https://gongdeok-room-note.maphoshirts.today/blog-1.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-room-note.maphoshirts.today/blog-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gongdeok-room-note.maphoshirts.today/blog-3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
